@@ -23,6 +23,6 @@
     //   const result=add3(4,5); 
     //  console.log(result); 
 
-        const add4=(num1,num2,num3,num4)=>num1+num2+num3+num4; 
-          const result=add4(4,3,6,4); 
-           console.log(result); 
+        // const add4=(num1,num2,num3,num4)=>num1+num2+num3+num4; 
+        //   const result=add4(4,3,6,4); 
+        //    console.log(result); 
